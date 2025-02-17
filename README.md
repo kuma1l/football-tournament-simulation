@@ -13,8 +13,8 @@ This project simulates a **football tournament** using **AI-powered match predic
 - `matches.csv` → Historical match data (30,000+ matches)
 - `teams.csv` → Team-to-confederation mapping
 - `qualified.csv` → Teams that advanced to knockouts
-- 'updated2.csv' -> transformed dataset ready for training
-- 'sim.csv' -> Dataset for simulation of Tournament with all the features for every matchup
+- `updated2.csv` -> transformed dataset ready for training
+- `sim.csv` -> Dataset for simulation of Tournament with all the features for every matchup
 
 ## src
 Contains all the notebooks which consist of all programs
